@@ -2,14 +2,13 @@
 ### 哥斯拉webshell二次开发规避流量检测设备  
 
 二开详细教程在微信公众号：艾克sec  
-目前测了国内两安全厂商的态感，连接和执行命令无告警  
-~~现在改了php和java的，后续尽快新增net的~~   
-java，net，php 流量修改已经全部支持，以后还会集成一键免杀功能和一些插件
-觉得好用的师傅点点star～(更新的动力！！！)
+截止4.10 测了国内两安全厂商的态感，连接和执行命令无告警，目前效果未知  
+最新版本增加了内存马注入，三种语言自定义免杀加密器，流量高度模拟混淆等功能，但目前由于特殊原因不能公开，推荐师傅们看公众号文章自行二开。  
+
 #### 1.1更新
 许多师傅提出市面上net webshell免杀工具较少，想隐匿流量却对默认生成的shell不会免杀，这里首先更新一下net的生成即免杀以及随机html（后续推出其他语言的免杀）  
 使用方法：  
-生成webshell选择bypass1(尽量不要用默认密码密钥，安天的引擎只要你输入pass和key就报红，aspx的马报jspwebshell就很离谱。。。）   
+生成webshell选择bypass1   
 <img width="640" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/87b86418-ad9f-49f7-bc4c-00e8634654c4">  
 即可免杀(vt 微步 阿里云 河马等均0报红)   
 <img width="1444" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/6d4780ba-c322-4bd9-b303-f489e2441f17">  
