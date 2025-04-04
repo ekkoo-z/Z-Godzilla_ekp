@@ -41,7 +41,7 @@ phpxorbase64流量修改前
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kong030813/Z-Godzilla_ekp&type=Date)](https://star-history.com/#kong030813/Z-Godzilla_ekp&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ekkoo-z/Z-Godzilla_ekp&type=Date)](https://www.star-history.com/#ekkoo-z/Z-Godzilla_ekp&Date&Date)
 
 
 
